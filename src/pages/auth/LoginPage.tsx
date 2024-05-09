@@ -15,7 +15,7 @@ export const LoginPage = () => {
     username.value = '';
     password.value = '';
     remember.checked = false;
-  }
+  } 
 
 
   return (
